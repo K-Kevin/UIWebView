@@ -1,0 +1,19 @@
+PODS:
+  - NJKWebViewProgress (0.2.3):
+    - NJKWebViewProgress/Core (= 0.2.3)
+    - NJKWebViewProgress/ProgressView (= 0.2.3)
+  - NJKWebViewProgress/Core (0.2.3)
+  - NJKWebViewProgress/ProgressView (0.2.3)
+  - PureLayout (3.0.2)
+
+DEPENDENCIES:
+  - NJKWebViewProgress
+  - PureLayout
+
+SPEC CHECKSUMS:
+  NJKWebViewProgress: f481fd424cb5ecc27eacae11b5397db92fba9a4d
+  PureLayout: 4d550abe49a94f24c2808b9b95db9131685fe4cd
+
+PODFILE CHECKSUM: 214ec1ed18707f077cd3d3ea98272a3b2aaf9d83
+
+COCOAPODS: 1.0.1
